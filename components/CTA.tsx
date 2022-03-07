@@ -7,7 +7,7 @@ const CTA = () => {
 					</div>
 				</div>
                 <div className="h-full w-full px-16 lg:px-40 flex justify-center lg:justify-end items-center mt-10 lg:mt-0">
-					<a href='https://tally.so/r/wdG5N3' target='_blank' className="w-1/3 bg-gradient-to-tr from-[#FFD600] to-[#FF5C00] flex justify-center items-center text-white rounded-xl py-3 text-sm">Register</a>
+					<a href='https://tally.so/r/wdG5N3' target='_blank' className="w-1/3 bg-gradient-to-tr from-[#FFD600] to-[#FF5C00] flex justify-center items-center text-white rounded-xl py-3 text-sm">Get Early Access</a>
                 </div>
             </div>
     )
