@@ -19,9 +19,9 @@ const Home: NextPage = () => {
       <div className='w-full flex flex-col justify-start items-center pt-20 min-h-screen space-y-20'>
         <h1 className='text-6xl font-black text-center md:text-left'>How Sidekicks Works?</h1>
         <div className='w-full space-y-20'>
-          <HowCard id='01' title='Build the projects.' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/code.png'></HowCard>
-          <HowCard id='02' title='Share with community.' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/people.png'></HowCard>
-          <HowCard id='03' title='Get Incentivized' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/coins.png'></HowCard>
+          <HowCard id='01' title='Build the projects.' desc='Build a project and launch it on side kicks with attaching proper assets and collecting wallet and get sharable link of your project page' img='/code.png'></HowCard>
+          <HowCard id='02' title='Share with community.' desc='Share your Project launch with your community, socials and your believers.' img='/people.png'></HowCard>
+          <HowCard id='03' title='Get Incentivized' desc='Believers of Project will be able to give you crypto kicks to keep your motivation on and give your reviews on future roadmaps, even can reach out to you to give bounties and grants' img='/coins.png'></HowCard>
         </div>
       </div>
       <CTA></CTA>

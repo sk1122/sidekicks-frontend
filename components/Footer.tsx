@@ -10,23 +10,8 @@ const Footer = (props: Props) => {
             SideKicks
           </h1>
           <p className="w-7/12">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo nam
-            ipsum vitae culpa exercitationem, facilis perspiciatis dolor ratione
-            optio neque blanditiis corrupti iste necessitatibus placeat.
+            A New way of launching Projects and getting Incentivized for it. Create a project - Share with everyone - Project belivers will give you crypto kicks and share you the inputs 
           </p>
-        </div>
-        {/* right side  */}
-        <div className="w-full flex justify-center">
-          <ul className="space-y-2 mr-28">
-            <li>Start Project</li>
-            <li>Fund project</li>
-            <li>About Us</li>
-            <li>Contact us</li>
-          </ul>
-          <ul className="space-y-2">
-            <li>Privacy Policy</li>
-            <li>Terms & Conditions</li>
-          </ul>
         </div>
       </div>
     </div>
