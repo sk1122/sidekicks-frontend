@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         <div className='w-full space-y-20'>
           <HowCard id='01' title='Build the projects.' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/code.png'></HowCard>
           <HowCard id='02' title='Share with community.' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/people.png'></HowCard>
-          <HowCard id='03' title='Get Incentivized' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/code.png'></HowCard>
+          <HowCard id='03' title='Get Incentivized' desc='Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna incididunt ut labore et dolore magna.' img='/coins.png'></HowCard>
         </div>
       </div>
       <CTA></CTA>
