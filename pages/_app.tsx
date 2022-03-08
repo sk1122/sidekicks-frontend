@@ -10,7 +10,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin='' />
         <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
         
-        <link rel="shortcut icon" href="https://pbs.twimg.com/profile_images/1492844146465599488/lcpIKQSH_400x400.jpg" type="image/x-icon" />
+        <link rel="icon" type="image/x-icon" href="/sidekicks.png" />
+        <link rel="shortcut icon" href="/sidekicks.png" type="image/x-icon" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@sk1122_" />
         <meta name="twitter:creator" content="@sk1122_" />
